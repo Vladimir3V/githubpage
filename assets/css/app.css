@@ -159,11 +159,11 @@ input[type="submit"] {
   padding-left: 60px; }
 
 .c-authorization__input_login-background {
-  background: url("/assets/img/blocks/login.png") no-repeat, #ffffff;
+  background: url("../img/blocks/login.png") no-repeat, #ffffff;
   background-size: 50px; }
 
 .c-authorization__input_password-background {
-  background: url("/assets/img/blocks/password.png") no-repeat, #ffffff;
+  background: url("../img/blocks/password.png") no-repeat, #ffffff;
   background-size: 50px; }
 
 .c-authorization__checkbox {
@@ -780,7 +780,7 @@ input[type="submit"] {
   margin-top: 40px; }
 
 .l-welcome-authorization {
-  background: url("/assets/img/backgrounds/welcomepagebg.png") no-repeat;
+  background: url("../img/backgrounds/welcomepagebg.png") no-repeat;
   background-size: cover;
   overflow: hidden;
   height: 100%;
@@ -830,7 +830,7 @@ input[type="submit"] {
 .c-block-what-about {
   height: 1350px;
   width: 100%;
-  background: url("/assets/img/backgrounds/whatabout_bg.png") no-repeat;
+  background: url("../img/backgrounds/whatabout_bg.png") no-repeat;
   background-size: 100%;
   display: -webkit-box;
   display: -ms-flexbox;
