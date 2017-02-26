@@ -780,7 +780,7 @@ input[type="submit"] {
   margin-top: 40px; }
 
 .l-welcome-authorization {
-  background: url("/assets/img/backgrounds/WelcomePageBg.png") no-repeat;
+  background: url("/assets/img/backgrounds/welcomepagebg.png") no-repeat;
   background-size: cover;
   overflow: hidden;
   height: 100%;
